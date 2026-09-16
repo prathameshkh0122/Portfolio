@@ -5,6 +5,8 @@ Redesigned with a dark theme + purple glow accents, inspired by a
 reference video, with sections for About, Academics, Career Timeline,
 Projects, and Tech Stack.
 
+https://prathameshkh0122.github.io/Portfolio/
+
 ## Run locally
 
 ```bash
