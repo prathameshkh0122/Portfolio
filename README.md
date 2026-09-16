@@ -1,4 +1,4 @@
-# Portfolio — Prathamesh Khamkar (v2 — Dark/Purple Theme)
+# Portfolio — Prathamesh Khamkar 
 
 Personal portfolio site built with React + Vite + Tailwind CSS v4.
 Redesigned with a dark theme + purple glow accents, inspired by a
